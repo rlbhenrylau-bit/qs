@@ -2,6 +2,7 @@
   "version": "1.0",
   "graphs": {
     "main": {
+      "id": "main",
       "nodes": [],
       "edges": []
     }
