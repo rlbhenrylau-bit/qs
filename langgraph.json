@@ -1,11 +1,6 @@
 {
   "version": "1.0",
   "graphs": {
-    "main": {
-      "id": "main",
-      "type": "graph",
-      "nodes": [],
-      "edges": []
-    }
+    "main": "graphs/main.json:main"
   }
 }
